@@ -1,4 +1,11 @@
 ### Hi there 👋
+---
+I am a self Learned developer having 5+ years of Experience. I love to code, develop & learn new stack. Love to solve problem & take challenge. 
+
+Currently I am working as a remote Developer in Taibah Academy. I developed & deployed their student management system, accounts software. 
+
+#### Skills: 
+Laravel, React, Node, Next.js, MySQL, MongoDB, Git, Bitbucket, Linux, DevOps, Rest API, Moodle.
 
 <!--
 **abdullahalharun/abdullahalharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
