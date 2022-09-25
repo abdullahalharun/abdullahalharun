@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-I am a self Learned developer having 5+ years of Experience. I love to code, develop & learn new stack. Love to solve problem & take challenge. 
+I am a self Learned developer having 4+ years of Experience. I love to code, develop & learn new stack. Love to solve problem & take challenge. 
 
 Currently I am working as a remote Developer in Taibah Academy. I developed & deployed their student management system, accounts software. 
 
