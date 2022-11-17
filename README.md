@@ -1,11 +1,14 @@
 ### Hi there 👋
 ---
-I am a self Learned developer having 4+ years of Experience. I love to code, develop & learn new stack. Love to solve problem & take challenge. 
+I'm Harun,
+A Full-Stack Web Developer.
 
-Currently I am working as a remote Developer in Taibah Academy. I developed & deployed their student management system, accounts software. 
+I am a self-learned web developer having 4+ years of experience. I love to code, develop & learn new stacks. I would describe myself as someone who is a problem solver & a quick learner. Currently, I am working as a Web Developer at Taibah Academy.
+
+I have expertise in Laravel and MySQL. Now I'm working with React, Next.js, Node.js, MongoDB, and other related technology.
 
 #### Skills: 
-Laravel, React, Node, Next.js, MySQL, MongoDB, Git, Bitbucket, Linux, DevOps, Rest API, Moodle.
+PHP, Laravel, MySQL, React.js, Node.js, Next.js, MongoDB, Git, Bitbucket, Linux, DevOps, Rest API, Moodle.
 
 <!--
 **abdullahalharun/abdullahalharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
