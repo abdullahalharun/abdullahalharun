@@ -10,7 +10,7 @@ I have expertise in Laravel and MySQL. Now I'm working with React, Next.js, Node
 #### Skills: 
 PHP, Laravel, MySQL, React.js, Node.js, Next.js, MongoDB, Git, Bitbucket, Linux, DevOps, Rest API, Moodle.
 
-Portfolio Website: [www.abdullahalharun.com](https://abdullahalharun.com "Portfilio Website")
+**Portfolio Website:** [www.abdullahalharun.com](https://abdullahalharun.com "Portfilio Website")
 
 <!--
 **abdullahalharun/abdullahalharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
