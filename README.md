@@ -1,9 +1,8 @@
 ### Hi there 👋
 ---
-I'm Harun,
-A Full-Stack Laravel Developer.
+I'm Harun, a Full-Stack Web Developer.
 
-I am a self-learned web developer having 4+ years of experience. I love to code, develop & learn new stacks. I would describe myself as someone who is a problem solver & a quick learner. Currently, I am working as a Web Developer at Taibah Academy.
+A self-learned web developer having 4+ years of experience. I love to code, develop & learn new stacks. I would describe myself as someone who is a problem solver & a quick learner. 
 
 I have expertise in Laravel and MySQL. Now I'm working with React, Next.js, Node.js, MongoDB, and other related technology.
 
@@ -13,7 +12,6 @@ I have expertise in Laravel and MySQL. Now I'm working with React, Next.js, Node
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalharun&hide=html)
 
 ## Favorite Tech
-
 > Tools, languages, and other things that I like to work with.
-### Dev tools & languages
+
 PHP, Laravel, MySQL, React.js, Node.js, Next.js, MongoDB, Git, Bitbucket, Linux, Digital Ocean, AWS, Rest API, Moodle.
