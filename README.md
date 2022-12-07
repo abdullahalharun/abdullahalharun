@@ -6,7 +6,7 @@ A self-learned web developer having 4+ years of experience. I love to code, deve
 
 I have expertise in Laravel and MySQL. Now I'm working with React, Next.js, Node.js, MongoDB, and other related technology.
 
-> Skills: 
+**Skills:**
 PHP, Laravel, Livewire, MySQL, React.js, Node.js, Next.js, MongoDB, Git, Bitbucket, Linux, Digital Ocean, AWS, Rest API, Moodle.
 
 **Portfolio Website:** [www.abdullahalharun.com](https://abdullahalharun.com "Portfilio Website")
