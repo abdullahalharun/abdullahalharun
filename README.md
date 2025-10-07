@@ -1,15 +1,17 @@
 ### Hi there 👋
 ---
-I'm Harun, a Full-Stack Web Developer.
+I’m a Full-Stack Web Developer and Co-Founder at Nukta Solutions, with 6+ years of experience building scalable, high-performance web applications.
 
-A self-learned web developer having 4+ years of experience. I love to code, develop & learn new stacks. I would describe myself as someone who is a problem solver & a quick learner. 
+I’m passionate about transforming ideas into reliable digital products — combining clean code, thoughtful design, and efficient project management to deliver meaningful results.
 
-I have expertise in Laravel and MySQL. Now I'm working with React, Next.js, Node.js, MongoDB, and other related technology.
+My expertise includes Laravel, React, Next.js, Node.js, Typescript, AWS, Devops, MySQL, PostgreSQL and MongoDB, along with leading teams and managing projects from concept to launch.
+
+Currently, I’m leading development at Nukta Solutions, helping businesses and organizations create impactful online experiences.
 
 **Skills:**
-PHP, Laravel, Livewire, MySQL, React.js, Node.js, Next.js, MongoDB, Git, Bitbucket, Linux, Digital Ocean, AWS, Rest API, Moodle.
+PHP, Laravel, MySQL, React.js, Node.js, Next.js, Express.js, MongoDB, PostgreSQL, Git, Bitbucket, Linux, Digital Ocean, AWS, Rest API, Moodle.
 
-**Portfolio Website:** [www.abdullahalharun.com](https://abdullahalharun.com "Portfilio Website")
+**Portfolio Website:** [harun.nukta.app](https://harun.nukta.app "Portfilio Website")
 
 ![Harun's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalharun&show_icons=true&count_private=true&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalharun&hide=html)
