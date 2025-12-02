@@ -11,10 +11,9 @@ Currently, I’m leading development at Nukta Solutions, helping businesses and 
 **Skills:**
 PHP, Laravel, MySQL, React.js, Node.js, Next.js, Express.js, MongoDB, PostgreSQL, Git, Bitbucket, Linux, Digital Ocean, AWS, Rest API, Moodle.
 
-**Portfolio Website:** [harun.nukta.app](https://harun.nukta.app "Portfilio Website")
+**Portfolio Website:** [https://harun.nukta.app](https://harun.nukta.app "Portfilio Website")
 
-#[![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalharun)](https://github.com/abdullahalharun/github-readme-stats)
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalharun)](https://github.com/abdullahalharun/github-readme-stats)
+
 
 
 
