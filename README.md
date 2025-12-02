@@ -13,8 +13,8 @@ PHP, Laravel, MySQL, React.js, Node.js, Next.js, Express.js, MongoDB, PostgreSQL
 
 **Portfolio Website:** [harun.nukta.app](https://harun.nukta.app "Portfilio Website")
 
-[![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalharun)](https://github.com/abdullahalharun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalharun)](https://github.com/abdullahalharun/github-readme-stats)
+#[![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalharun)](https://github.com/abdullahalharun/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalharun)](https://github.com/abdullahalharun/github-readme-stats)
 
 
 
