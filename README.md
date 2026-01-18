@@ -11,7 +11,7 @@ Currently, I’m leading development at Nukta Solutions, helping businesses and 
 **Skills:**
 PHP, Laravel, MySQL, React.js, Node.js, Next.js, Express.js, MongoDB, PostgreSQL, Git, Bitbucket, Linux, Digital Ocean, AWS, Rest API, Moodle.
 
-**Portfolio Website:** [https://harun.nukta.app](https://harun.nukta.app "Portfilio Website")
+**Portfolio Website:** [https://www.harunrrashid.com](https://www.harunrrashid.com "Portfilio Website")
 
 
 
